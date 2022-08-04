@@ -1,0 +1,7 @@
+#THIS INSTRUCTION IS MEANT TO GUIDE YOU IN WIN OPERATING SYSTEM
+
+1. Make sure you have python installed and added in your environment variables path
+2. in the folder where you want to create the virtual environment, create virtual environment > python -m venv <nameOfYourEnv>
+3. notify if virtual environment has been made. If yes, activate them by going into the "Scripts" folder of the venv > cd <yourVirtualEnv>/Scripts then type "activate"
+4. With the environment activated, go back to the folder where you want to work
+4. to deactivate, simply type "deactivate" under the folder venv/Script
